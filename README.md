@@ -1,5 +1,8 @@
 ### Hi there, my name is Douglas and i'm a software developer 🚀👋
 
+- 🔭 I'm currently working with javascript's technology ⚛
+
+
 <!--
 **Dougsrodrigues/Dougsrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
