@@ -1,6 +1,6 @@
 ### Hi there, my name is Douglas and i'm a software developer 🚀👋
 
-- 🔭 I'm currently working with javascript's technology ⚛
+- 🔭 I'm currently working with javascript's technology 
 
 
 <!--
